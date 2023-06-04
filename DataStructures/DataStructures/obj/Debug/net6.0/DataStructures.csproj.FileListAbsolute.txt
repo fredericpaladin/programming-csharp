@@ -1,0 +1,12 @@
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\repo\fredericpaladin\programming-csharp\DataStructures\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll

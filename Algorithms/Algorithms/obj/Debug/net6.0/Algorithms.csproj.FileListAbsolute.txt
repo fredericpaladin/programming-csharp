@@ -1,0 +1,17 @@
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\Algorithms.deps.json
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\Algorithms.dll
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\Algorithms.pdb
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.csproj.AssemblyReference.cache
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.AssemblyInfoInputs.cache
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.AssemblyInfo.cs
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.dll
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\refint\Algorithms.dll
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\Algorithms.pdb
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\obj\Debug\net6.0\ref\Algorithms.dll
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\runtimes\linux\native\brolib_x64.so
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\runtimes\linux\native\brolib_x86.so
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\runtimes\osx\native\brolib_x64.dylib
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\runtimes\win\native\brolib_x64.dll
+C:\repo\fredericpaladin\programming-csharp\Algorithms\Algorithms\bin\Debug\net6.0\runtimes\win\native\brolib_x86.dll
